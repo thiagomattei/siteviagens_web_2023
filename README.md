@@ -9,7 +9,3 @@
  
 
 ![logo ifpr](https://github.com/thiagomattei/siteviagens_web_2023/blob/dcec52b58e793a27d1e80cc3d453acae06e49889/ifpr.png)
-
-
-
-> Written with [StackEdit](https://stackedit.io/).
