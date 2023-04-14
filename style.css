@@ -25,7 +25,7 @@ button {
 }
 
 header {
-    background: no-repeat center/cover url("assets/Bangkok-tailandia.jpg");
+    background: no-repeat center/cover url( "assets/Bangkok-tailandia.jpg" );
     height: calc(100vh - 100px);
 }
 
@@ -92,6 +92,7 @@ header nav p {
     margin: 25px;
     position: relative;
 }
+
 
 .pacotes .card-content {
     padding: 0 15px;
@@ -221,3 +222,4 @@ header nav p {
 .contatos .instagram svg {
     color: #f2b46e;
 }
+
